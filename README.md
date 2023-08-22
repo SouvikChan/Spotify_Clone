@@ -23,3 +23,9 @@ My Live Web Site for visit [Live Link](https://lyriscs.netlify.app/).
 ![image](https://user-images.githubusercontent.com/89825678/192951344-3467b08b-6f83-4ab1-af59-363a797c5609.png)
 ![image](https://user-images.githubusercontent.com/89825678/192951464-2729677d-a7ae-47c2-aa53-8d43a7cb6d38.png)
 ![image](https://user-images.githubusercontent.com/89825678/192951960-5a9780e5-e6cb-4dff-b08d-b6f7c0c29820.png)
+
+
+
+https://github.com/SouvikChan/Spotify_Clone/assets/89825678/ae9e7f85-7205-4315-9f81-674f469b6962
+
+
