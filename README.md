@@ -1,6 +1,5 @@
 #Spotify_Clone
 ## Use the WebApp
-My Live Web Site for visit [Live Link](https://lyriscs.netlify.app/).
 
 * 1 Used React 
 * 2 Used React Library
